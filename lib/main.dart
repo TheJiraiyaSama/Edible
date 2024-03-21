@@ -39,7 +39,7 @@ class Basic extends StatelessWidget {
             height: 500, // Adjust image height as needed
           ),
         ),
-        const SizedBox(height: 10), // Spacer
+        const SizedBox(height: 0), // Spacer
 
         // Two texts in the center
         const Column(
